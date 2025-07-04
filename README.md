@@ -19,7 +19,6 @@ Yeni başlayanlar da rahatlıkla kullanabilsin diye yazdım.
 
 ### 2️⃣ using Direktifi Ekle
 
-```csharp
 using TrSql;
 
 ---
