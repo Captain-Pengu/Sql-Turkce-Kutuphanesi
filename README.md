@@ -7,6 +7,21 @@ Bu proje, C# ile MSSQL veritabanı kullananlar için basit, anlaşılır ve **T�
 Amacım, karmaşık `SqlConnection`, `ExecuteNonQuery` gibi şeylerle uğraşmak yerine işleri sadeleştirmek.  
 Yeni başlayanlar da rahatlıkla kullanabilsin diye yazdım.
 
+## 🚀 Kurulum ve Başlangıç
+
+### 1️⃣ DLL'yi Projeye Ekle
+
+1. Visual Studio → `Proje Adı`'na sağ tıkla → `Add` → `Reference...`  
+2. `Browse` sekmesinden `TrSql.dll`'yi seç  
+3. `OK` diyerek referansla
+
+---
+
+### 2️⃣ using Direktifi Ekle
+
+```csharp
+using TrSql;
+
 ---
 
 ## 🔧 Özellikler
